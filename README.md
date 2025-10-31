@@ -13,29 +13,30 @@
   
 </div>
 
+
 ---
+
 ## 🚀 About Me
 
-🎯 **Full Stack Developer** specializing in MERN Stack development
+A passionate **Full Stack Developer** with a focus on building scalable, responsive web applications using the **MERN Stack**. I thrive on transforming ideas into robust digital solutions that deliver exceptional user experiences. With a strong foundation in both frontend and backend technologies, I specialize in creating secure, efficient systems that scale with business needs.
 
-**💡 What I Do:**
-- Build responsive and scalable web applications
-- Design RESTful APIs and microservices
-- Implement secure authentication systems
-- Create intuitive user interfaces
+### 💡 What I Do
+- **Develop Responsive Web Applications**: Crafting intuitive, mobile-first interfaces that engage users across devices.
+- **Design RESTful APIs & Microservices**: Architecting modular, high-performance backend services for seamless data flow.
+- **Implement Secure Authentication**: Integrating JWT, OAuth, and role-based access control to safeguard user data.
+- **Optimize User Interfaces**: Leveraging modern UI/UX principles to create visually appealing and accessible designs.
 
-**🛠️ Tech Stack:**
-- **Frontend:** React, Redux, Next.js, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express, Django, Flask
-- **Database:** MongoDB, PostgreSQL, MySQL
-- **DevOps:** Docker, AWS, Git, GitHub Actions
-- **Tools:** VS Code, Postman, Figma
+### 🎓 Education
+- **Bachelor of Technology (B.Tech) in Computer Science**  
+  [Government College Of Engineering, Jalgaon], [2026]  
+  *Relevant Coursework: Data Structures, Algorithms, Web Technologies, Database Systems*
 
-**📚 Currently Learning:** System Design, Microservices, Advanced React Patterns
+### 📍 Location
+Aurangabad, Maharashtra, India  
+🌐 Open to remote opportunities worldwide
 
-**🎓 Education:** B.Tech in Computer Science  
-**📍 Location:** Aurangabad, Maharashtra, India  
-**⚡ Fun Fact:** I believe in learning by building!
+### ⚡ Fun Fact
+I believe in **learning by building**—every project is a stepping stone to mastery. From prototyping MVPs to deploying production-ready apps, I love the iterative journey of code!
 
 ---
 
@@ -88,7 +89,7 @@
 - 📧 Email notification system
 - 📱 Fully responsive design
 
-**[Live Demo](https://community-resource-boards.netlify.app)** | **[Source Code](https://github.com/vijayshikhare/community-resource-board)**
+**[Live Demo](https://community-resource-board.netlify.app)** | **[Source Code](https://github.com/vijayshikhare/community-resource-board)**
 
 ---
 
@@ -198,10 +199,42 @@ Currently working on exciting new projects! Stay tuned 🚀
 ---
 
 <div align="center">
-  
-### Show some ❤️ by starring some of my repositories!
+
+### 🌟 Star My Projects!
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vijayshikhare/community-resource-board">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vijayshikhare&repo=community-resource-board&theme=radical" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vijayshikhare/vijayshikhare-portfolio-site">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vijayshikhare&repo=vijayshikhare-portfolio-site&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+**⭐ Click on any project to visit and star!**
+
+<br>
+
+[![GitHub followers](https://img.shields.io/github/followers/vijayshikhare?label=Follow&style=for-the-badge&logo=github)](https://github.com/vijayshikhare)
+[![GitHub stars](https://img.shields.io/github/stars/vijayshikhare?label=Total%20Stars&style=for-the-badge&logo=github)](https://github.com/vijayshikhare?tab=repositories)
+
+</div>
+
+---
+
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vijayshikhare&color=brightgreen&style=for-the-badge)
+
+**Built with 💻 | Fueled by ☕ | Made with ❤️**
+
+© 2025 Vijay Shikhare • [LinkedIn](https://www.linkedin.com/in/vijayshikhare) • [Portfolio](https://vijayshikhare.github.io/vijayshikhare-portfolio-site) • [Email](mailto:vijayshikhareteam@gmail.com)
 
 </div>
 
