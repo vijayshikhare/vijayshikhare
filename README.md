@@ -199,11 +199,17 @@ Currently working on exciting new projects! Stay tuned 🚀
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  
-![Snake animation](https://github.com/vijayshikhare/vijayshikhare/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+  
+![Snake animation](https://raw.githubusercontent.com/vijayshikhare/vijayshikhare/output/github-snake.svg)
+
+
+```
+
+Or for dark mode version:
+```markdown
+![Snake animation](https://raw.githubusercontent.com/vijayshikhare/vijayshikhare/output/github-snake-dark.svg)
+```
 
 ---
 
