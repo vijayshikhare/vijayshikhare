@@ -14,35 +14,28 @@
 </div>
 
 ---
-
 ## 🚀 About Me
 
-```javascript
-const vijay = {
-    pronouns: "He" | "Him",
-    location: "Aurangabad, Maharashtra, India",
-    currentFocus: "Full Stack Development",
-    education: "B.Tech in Computer Science",
-    
-    code: ["JavaScript", "Python", "Java", "C++"],
-    askMeAbout: ["Web Dev", "MERN Stack", "Front End", "APIs"],
-    technologies: {
-        frontend: {
-            js: ["React", "Redux", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Material-UI"]
-        },
-        backend: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "Flask"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        devOps: ["Docker", "AWS", "Git", "GitHub Actions"],
-        tools: ["VS Code", "Postman", "Figma"]
-    },
-    currentProject: "Community Resource Board",
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
-};
-```
+🎯 **Full Stack Developer** specializing in MERN Stack development
+
+**💡 What I Do:**
+- Build responsive and scalable web applications
+- Design RESTful APIs and microservices
+- Implement secure authentication systems
+- Create intuitive user interfaces
+
+**🛠️ Tech Stack:**
+- **Frontend:** React, Redux, Next.js, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express, Django, Flask
+- **Database:** MongoDB, PostgreSQL, MySQL
+- **DevOps:** Docker, AWS, Git, GitHub Actions
+- **Tools:** VS Code, Postman, Figma
+
+**📚 Currently Learning:** System Design, Microservices, Advanced React Patterns
+
+**🎓 Education:** B.Tech in Computer Science  
+**📍 Location:** Aurangabad, Maharashtra, India  
+**⚡ Fun Fact:** I believe in learning by building!
 
 ---
 
@@ -124,7 +117,7 @@ Currently working on exciting new projects! Stay tuned 🚀
 ## 🎯 Current Focus
 
 - 🔭 Building scalable web applications with MERN stack
-- 🌱 Learning Full Stacj Development and Building Projects
+- 🌱 Learning Full Stack Development and Building Projects
 - 👯 Looking to collaborate on open-source projects
 - 💬 Ask me about React, Node.js, MongoDB, or anything tech!
 - 📫 How to reach me: **[vijayshikhareteam@gmail.com](mailto:vijayshikhareteam@gmail.com)**
@@ -200,16 +193,7 @@ Currently working on exciting new projects! Stay tuned 🚀
 ## 🐍 Contribution Snake
 
 
-  
-![Snake animation](https://raw.githubusercontent.com/vijayshikhare/vijayshikhare/output/github-snake.svg)
-
-
-```
-
-Or for dark mode version:
-```markdown
 ![Snake animation](https://raw.githubusercontent.com/vijayshikhare/vijayshikhare/output/github-snake-dark.svg)
-```
 
 ---
 
