@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: Generate Snake
 
 # Controls when the action will run
@@ -44,3 +45,27 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+=======
+# Dynamic Contribution Snake
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: vijayshikhare
+          outputs: dist/github-contribution-grid-snake.svg
+      - name: Upload Snake SVG
+        uses: actions/upload-artifact@v4
+        with:
+          name: contribution-snake
+          path: dist/github-contribution-grid-snake.svg
+>>>>>>> 19d6999 (Profile: clean commit for correct repo)

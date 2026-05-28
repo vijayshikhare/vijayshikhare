@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: Latest blog post workflow
 
 on:
@@ -17,3 +18,31 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
             feed_list: "https://dev.to/feed/devteam"
+=======
+# Professional Blog Post Workflow
+name: Publish Dev Blog Post
+
+on:
+  schedule:
+    - cron: '0 8 * * 1'
+  workflow_dispatch:
+
+jobs:
+  publish:
+    name: Publish Latest Blog Post
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Profile Repo
+        uses: actions/checkout@v4
+      - name: Fetch Latest Blog Post
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://yourblog.com/rss"
+      - name: Commit & Push if Changed
+        run: |
+          git config --global user.name 'Vijay Shikhare'
+          git config --global user.email 'vijayshikhareteam@gmail.com'
+          git add .
+          git diff --cached --quiet || git commit -m "chore: update blog section"
+          git push
+>>>>>>> 19d6999 (Profile: clean commit for correct repo)

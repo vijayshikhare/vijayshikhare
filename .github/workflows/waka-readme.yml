@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: Waka Readme
 
 on:
@@ -6,10 +7,21 @@ on:
 permissions:
   contents: write
 
+=======
+# WakaTime Coding Metrics
+name: Update WakaTime Metrics
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+>>>>>>> 19d6999 (Profile: clean commit for correct repo)
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
+<<<<<<< HEAD
       - name: Waka Readme Stats
         uses: anmol098/waka-readme-stats@master
         with:
@@ -17,3 +29,16 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_LANGUAGE: "True"
+=======
+      - name: Update WakaTime Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_LANGUAGE_PER_REPO: true
+          SHOW_LINES_OF_CODE: true
+          SHOW_PROFILE_VIEWS: true
+          SHOW_COMMIT: true
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_PROJECTS: true
+>>>>>>> 19d6999 (Profile: clean commit for correct repo)
