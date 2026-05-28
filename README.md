@@ -59,14 +59,12 @@ Open to full-time, internship, and freelance roles in full-stack, frontend, and 
 - **Outcome-led focus:** Every decision is made around the result the product needs to deliver.
 
 ---
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=vijayshikhare&color=brightgreen&style=for-the-badge)
-
-**Built with 💻 | Fueled by ☕ | Made with ❤️**
-
-© 2025 Vijay Shikhare • [LinkedIn](https://www.linkedin.com/in/vijayshikhare) • [Portfolio](https://vijayshikhare.github.io/vijayshikhare-portfolio-site) • [Email](mailto:vijayshikhareteam@gmail.com)
-
+<div align="center" style="margin: 2em 0 1em 0;">
+  <img src="https://komarev.com/ghpvc/?username=vijayshikhare&color=10B981&style=for-the-badge" alt="Profile Views" />
+  <br><br>
+  <span><b>Built with 💻 | Fueled by ☕ | Made with ❤️</b></span>
+  <br><br>
+  <span>© 2026 Vijay Shikhare • <a href="https://linkedin.com/in/vijayshikhare">LinkedIn</a> • <a href="https://vijayshikhare.com">Portfolio</a> • <a href="mailto:vijayshikhareteam@gmail.com">Email</a></span>
 </div>
 
 ---
