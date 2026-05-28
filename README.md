@@ -4,19 +4,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=10B981&center=true&vCenter=true&width=1200&lines=Full+Stack+Developer+%7C+Clean+Delivery+%7C+Premium+Websites+%7C+Open+to+Work" alt="Typing animation" />
   <br><br>
   <a href="#about-me">About Me</a> •
-  <a href="#skills-tools">Skills & Tools</a> •
+  <a href="#skills--tools">Skills & Tools</a> •
   <a href="#how-i-work">How I Work</a> •
   <a href="#featured-projects">Featured Projects</a> •
-  <a href="#metrics-automation">Metrics & Automation</a> •
+  <a href="#metrics--automation">Metrics & Automation</a> •
   <a href="#what-clients-say">What Clients Say</a> •
   <a href="#education">Education</a> •
   <a href="#experience">Experience</a> •
-  <a href="#links-contact">Links & Contact</a>
+  <a href="#links--contact">Links & Contact</a>
 </div>
 
 ---
 
-# About Me
+## About Me
 
 I’m Vijay Shikhare, a full-stack developer based in Jalgaon, India. I build web products that are easy to trust: clean UX, stable code, and delivery you can review step by step.
 
@@ -28,7 +28,7 @@ Open to full-time, internship, and freelance roles in full-stack, frontend, and 
 
 ---
 
-# Skills & Tools
+## Skills & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,github,vscode,docker,figma" alt="Skills" />
@@ -51,7 +51,7 @@ Open to full-time, internship, and freelance roles in full-stack, frontend, and 
 
 ---
 
-# How I Work
+## How I Work
 
 - **Hands-on delivery:** From planning through release, I stay close to the build.
 - **Transparent communication:** You always know what’s happening, what’s next, and what’s blocked.
@@ -76,7 +76,7 @@ Open to full-time, internship, and freelance roles in full-stack, frontend, and 
 </div>
 =======
 ---
-## 💬 What Clients Say
+## What Clients Say
 
 > “Vijay delivered our MVP on time with clean code and clear communication. The admin dashboard and user flows were exactly what we needed. Highly recommended for any serious web project.”
 
@@ -87,7 +87,7 @@ Open to full-time, internship, and freelance roles in full-stack, frontend, and 
 
 
 ---
-## 📈 Metrics & Automation
+## Metrics & Automation
 
 <details>
 <summary>Show Dev Metrics & Automation</summary>
@@ -120,7 +120,7 @@ Automated workflows:
 
 
 ---
-## 🎓 Education
+## Education
 
 - **B.Tech in Computer Engineering** (2022–2026), Government College of Engineering, Jalgaon
 - **HSC Science** (2021–2022), Rameshwar College, Bhokardan
@@ -130,7 +130,7 @@ Automated workflows:
 
 
 ---
-## 💼 Experience
+## Experience
 
 - **Full Stack Developer Intern** (Feb 2026 – Apr 2026), WasteZero
   - Built a smart waste pickup and recycling platform (React, Node, Express, MongoDB, JWT)
@@ -143,7 +143,7 @@ Automated workflows:
 
 
 ---
-## 🌐 Links & Contact
+## Links & Contact
 
 <p align="center">
   <a href="https://www.vijayshikhare.com/">
