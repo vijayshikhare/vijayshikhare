@@ -3,15 +3,15 @@
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=10B981&center=true&vCenter=true&width=1200&lines=Full+Stack+Developer+%7C+Clean+Delivery+%7C+Premium+Websites+%7C+Open+to+Work" alt="Typing animation" />
   <br><br>
-  <a href="#about-me">About</a> •
-  <a href="#skills--tools">Skills</a> •
+  <a href="#about-me">About Me</a> •
+  <a href="#skills-tools">Skills & Tools</a> •
   <a href="#how-i-work">How I Work</a> •
-  <a href="#featured-projects">Projects</a> •
-  <a href="#metrics--automation">Metrics</a> •
-  <a href="#what-clients-say">Testimonials</a> •
+  <a href="#featured-projects">Featured Projects</a> •
+  <a href="#metrics-automation">Metrics & Automation</a> •
+  <a href="#what-clients-say">What Clients Say</a> •
   <a href="#education">Education</a> •
   <a href="#experience">Experience</a> •
-  <a href="#links--contact">Contact</a>
+  <a href="#links-contact">Links & Contact</a>
 </div>
 
 ---
@@ -59,157 +59,6 @@ Open to full-time, internship, and freelance roles in full-stack, frontend, and 
 - **Outcome-led focus:** Every decision is made around the result the product needs to deliver.
 
 ---
-
-# Featured Projects
-
-<table>
-  <tr>
-    <td>
-      <b>WasteZero - Smart Waste Pickup and Recycling Platform</b><br/>
-      <a href="https://waste0.vercel.app/">Live Demo</a> | <a href="https://github.com/vijayshikhare/WasteZero-Smart-Waste-Pickup-Recycling-Platform">Source</a><br/>
-      <img src="https://www.vijayshikhare.com/optimized/assets/images/projects/wastezerro-480.avif" width="320" alt="WasteZero Screenshot" />
-      <br/><i>React, Node.js, Express, MongoDB, Tailwind CSS, JWT Auth</i>
-=======
-## 📑 Table of Contents
-
-- [About Me](#about-me)
-- [Skills & Tools](#skills--tools)
-- [How I Work](#how-i-work)
-- [Featured Projects](#featured-projects)
-- [Metrics & Automation](#metrics--automation)
-- [What Clients Say](#what-clients-say)
-- [Education](#education)
-- [Experience](#experience)
-- [Links & Contact](#links--contact)
-
----
-
----
-## 🧭 How I Work
-
-I deliver real products with:
-
-- **Hands-on delivery:** From planning through release, I stay close to the build.
-- **Transparent communication:** You always know what’s happening, what’s next, and what’s blocked.
-- **Iterative build rhythm:** I work in clear milestones so feedback stays useful and scope stays controlled.
-- **Outcome-led focus:** Every decision is made around the result the product needs to deliver.
-
----
-
-<p align="center">
-  <a href="https://github.com/vijayshikhare">
-    <img src="https://img.shields.io/github/followers/vijayshikhare?style=for-the-badge&logo=github&label=Followers&color=0f766e&labelColor=111827" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/vijayshikhare?tab=repositories">
-    <img src="https://img.shields.io/github/stars/vijayshikhare?style=for-the-badge&logo=github&label=Stars&color=2563eb&labelColor=111827" alt="GitHub stars" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Product%20Engineering-7c3aed?style=for-the-badge&labelColor=111827" alt="Focus" />
-</p>
-
----
-
-
-
-## 👋 About Me
-
-I’m Vijay Shikhare, a full-stack developer based in Jalgaon, India. I build web products that are easy to trust: clean UX, stable code, and delivery you can review step by step.
-
-**Recruiters:** See clean engineering, real project scope, and how I make delivery decisions.
-
-**Clients:** See a reliable build process, clear timelines, and work you can trust after launch.
-
-Open to full-time, internship, and freelance roles in full-stack, frontend, and product engineering.
-
-
-
-
----
-## 🚀 Skills & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,github,vscode,docker,figma" alt="Skills" />
-</p>
-
-| Skill            | Level  |
-|------------------|--------|
-| HTML5            | 95%    |
-| CSS3             | 92%    |
-| JavaScript (ES6+)| 98%    |
-| React.js         | 96%    |
-| Node.js          | 90%    |
-| Express.js       | 88%    |
-| MongoDB          | 85%    |
-| Tailwind CSS     | 91%    |
-| Git & GitHub     | 92%    |
-| Responsive Design| 94%    |
-| REST APIs        | 89%    |
-| State Management | 87%    |
-
-
-
-
-
----
-## 🏆 Featured Projects
-
-<table>
-  <tr>
-    <td>
-      <b>WasteZero - Smart Waste Pickup and Recycling Platform</b><br/>
-      <a href="https://waste0.vercel.app/">Live Demo</a> | <a href="https://github.com/vijayshikhare/WasteZero-Smart-Waste-Pickup-Recycling-Platform">Source</a><br/>
-      <img src="https://www.vijayshikhare.com/optimized/assets/images/projects/wastezerro-480.avif" width="320" alt="WasteZero Screenshot" />
-      <br/><i>React, Node.js, Express, MongoDB, Tailwind CSS, JWT Auth</i>
-    </td>
-    <td>
-      <b>Portfolio Website</b><br/>
-      <a href="https://vijayshikhare.vercel.app/">Live Demo</a> | <a href="https://github.com/vijayshikhare/vijayshikhare-portfolio">Source</a><br/>
-      <img src="https://www.vijayshikhare.com/optimized/assets/images/projects/myportfolio-480.avif" width="320" alt="Portfolio Screenshot" />
-      <br/><i>React, Tailwind CSS, Framer Motion, Vite</i>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Accredian Enterprise Website Clone</b><br/>
-      <a href="https://accredian-enterprise-clone.netlify.app/">Live Demo</a> | <a href="https://github.com/vijayshikhare/accredian-enterprise-clone">Source</a><br/>
-      <img src="https://www.vijayshikhare.com/optimized/assets/images/projects/accredian-480.avif" width="320" alt="Accredian Screenshot" />
-      <br/><i>Next.js, React, Tailwind CSS, Framer Motion</i>
-    </td>
-    <td>
-      <b>MindEase - AI-Powered Mental Health Support Platform</b><br/>
-      <a href="https://youtu.be/cEyGTV2Lcj4?si=01UTqhpI8Il9oFEC">Demo Video</a> | <a href="https://github.com/vijayshikhare/mindease-ai-mental-health-app">Source</a><br/>
-      <img src="https://www.vijayshikhare.com/optimized/assets/images/projects/mindease-480.avif" width="320" alt="MindEase Screenshot" />
-      <br/><i>MERN Stack, React, Node.js, Express, MongoDB</i>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>AppDost Pvt. Ltd. - IT and Digital Solutions Website</b><br/>
-      <a href="https://appdost-websites.vercel.app/">Live Demo</a> | <a href="https://github.com/vijayshikhare/appdost-website">Source</a><br/>
-      <img src="https://www.vijayshikhare.com/optimized/assets/images/projects/appdostweb-480.avif" width="320" alt="AppDost Screenshot" />
-      <br/><i>HTML5, CSS3, JavaScript, Responsive Design</i>
-    </td>
-    <td>
-      <b>Shikhare Travels - Online Bus Booking System</b><br/>
-      <a href="https://shikharetravels.infinityfreeapp.com/">Live Demo</a> | <a href="https://github.com/vijayshikhare/shikhare-travels">Source</a><br/>
-      <img src="https://www.vijayshikhare.com/optimized/assets/images/projects/busbooking-480.avif" width="320" alt="Shikhare Travels Screenshot" />
-      <br/><i>PHP 8.3+, MySQL, Bootstrap 5, JavaScript</i>
->>>>>>> 19d6999 (Profile: clean commit for correct repo)
-    </td>
-  </tr>
-</table>
-
-<<<<<<< HEAD
-**⭐ Click on any project to visit and star!**
-
-<br>
-
-[![GitHub followers](https://img.shields.io/github/followers/vijayshikhare?label=Follow&style=for-the-badge&logo=github)](https://github.com/vijayshikhare)
-[![GitHub stars](https://img.shields.io/github/stars/vijayshikhare?label=Total%20Stars&style=for-the-badge&logo=github)](https://github.com/vijayshikhare?tab=repositories)
-
-</div>
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vijayshikhare&color=brightgreen&style=for-the-badge)
