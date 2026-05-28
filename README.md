@@ -1,14 +1,8 @@
-<<<<<<< HEAD
-
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,100:2c5364&text=Vijay%20Shikhare&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=52&fontWeight=700" alt="Profile banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=10B981&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+focused+on+clean+delivery+and+real+project+outcomes;Freelance+builder+for+premium+websites+and+full-stack+products;Open+to+full-time,+internship,+and+freelance+roles" alt="Typing animation" />
-</p>
-
-<p align="center">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=10B981&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+Clean+Delivery+%7C+Premium+Websites+%7C+Open+to+Work" alt="Typing animation" />
+  <br><br>
   <a href="#about-me">About</a> •
   <a href="#skills--tools">Skills</a> •
   <a href="#how-i-work">How I Work</a> •
@@ -18,11 +12,11 @@
   <a href="#education">Education</a> •
   <a href="#experience">Experience</a> •
   <a href="#links--contact">Contact</a>
-</p>
+</div>
 
 ---
 
-## 👋 About Me
+# About Me
 
 I’m Vijay Shikhare, a full-stack developer based in Jalgaon, India. I build web products that are easy to trust: clean UX, stable code, and delivery you can review step by step.
 
@@ -34,7 +28,7 @@ Open to full-time, internship, and freelance roles in full-stack, frontend, and 
 
 ---
 
-## 🚀 Skills & Tools
+# Skills & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,github,vscode,docker,figma" alt="Skills" />
@@ -57,7 +51,7 @@ Open to full-time, internship, and freelance roles in full-stack, frontend, and 
 
 ---
 
-## 🧭 How I Work
+# How I Work
 
 - **Hands-on delivery:** From planning through release, I stay close to the build.
 - **Transparent communication:** You always know what’s happening, what’s next, and what’s blocked.
@@ -66,7 +60,7 @@ Open to full-time, internship, and freelance roles in full-stack, frontend, and 
 
 ---
 
-## 🏆 Featured Projects
+# Featured Projects
 
 <table>
   <tr>
@@ -115,7 +109,7 @@ Open to full-time, internship, and freelance roles in full-stack, frontend, and 
 
 ---
 
-## 💬 What Clients Say
+# What Clients Say
 
 > “Vijay delivered our MVP on time with clean code and clear communication. The admin dashboard and user flows were exactly what we needed. Highly recommended for any serious web project.”  
 — Client, WasteZero Project
@@ -128,7 +122,7 @@ Open to full-time, internship, and freelance roles in full-stack, frontend, and 
 
 ---
 
-## 📈 Metrics & Automation
+# Metrics & Automation
 
 <details>
 <summary>Show Dev Metrics & Automation</summary>
@@ -159,7 +153,7 @@ Automated workflows:
 
 ---
 
-## 🎓 Education
+# Education
 
 - **B.Tech in Computer Engineering** (2022–2026), Government College of Engineering, Jalgaon
 - **HSC Science** (2021–2022), Rameshwar College, Bhokardan
@@ -167,7 +161,7 @@ Automated workflows:
 
 ---
 
-## 💼 Experience
+# Experience
 
 - **Full Stack Developer Intern** (Feb 2026 – Apr 2026), WasteZero
   - Built a smart waste pickup and recycling platform (React, Node, Express, MongoDB, JWT)
@@ -180,7 +174,7 @@ Automated workflows:
 
 ---
 
-## 🌐 Links & Contact
+# Links & Contact
 
 <p align="center">
   <a href="https://www.vijayshikhare.com/">
@@ -210,61 +204,8 @@ Automated workflows:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,100:0f2027" alt="Footer banner" />
 </p>
+<<<<<<< HEAD
 
-## 🚀 About Me
-
-A passionate **Full Stack Developer** with a focus on building scalable, responsive web applications using the **MERN Stack**. I thrive on transforming ideas into robust digital solutions that deliver exceptional user experiences. With a strong foundation in both frontend and backend technologies, I specialize in creating secure, efficient systems that scale with business needs.
-
-### 💡 What I Do
-- **Develop Responsive Web Applications**: Crafting intuitive, mobile-first interfaces that engage users across devices.
-- **Design RESTful APIs & Microservices**: Architecting modular, high-performance backend services for seamless data flow.
-- **Implement Secure Authentication**: Integrating JWT, OAuth, and role-based access control to safeguard user data.
-- **Optimize User Interfaces**: Leveraging modern UI/UX principles to create visually appealing and accessible designs.
-
-### 🎓 Education
-- **Bachelor of Technology (B.Tech) in Computer Science**  
-  [Government College Of Engineering, Jalgaon], [2026]  
-  *Relevant Coursework: Data Structures, Algorithms, Web Technologies, Database Systems*
-
-### 📍 Location
-Aurangabad, Maharashtra, India  
-🌐 Open to remote opportunities worldwide
-
-### ⚡ Fun Fact
-I believe in **learning by building**—every project is a stepping stone to mastery. From prototyping MVPs to deploying production-ready apps, I love the iterative journey of code!
-
----
-
-## 💻 Tech Stack
-
-### Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-### Backend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
-
-### Databases & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 =======
 
 
