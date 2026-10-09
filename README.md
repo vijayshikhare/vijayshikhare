@@ -240,7 +240,7 @@ specific product or engineering decision.
 
 </div>
 
-<details>
+<details open="false">
 <summary><strong>Open the contribution arcade</strong></summary>
 
 <br>
@@ -255,14 +255,15 @@ visual game while keeping the rest of the profile focused on real work.
 
 </details>
 
-<details>
+<details open="false">
 <summary><strong>Open the activity graph</strong></summary>
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayshikhare&bg_color=071A17&color=CBD5E1&line=34D399&point=F8FAFC&area=true&hide_border=true" alt="Vijay's GitHub activity graph">
-</p>
+GitHub’s live contribution calendar is available directly from my
+[profile activity page](https://github.com/vijayshikhare?tab=overview).
+This keeps the profile reliable without depending on a third-party graph
+renderer.
 
 </details>
 
