@@ -1,31 +1,30 @@
-name: Generate Snake
+name: Generate contribution artwork
 
-# Controls when the action will run
 on:
-  # Run automatically every 12 hours
   schedule:
-    - cron: "0 */12 * * *"
-  
-  # Allows you to run this workflow manually from the Actions tab
+    - cron: "0 6 * * 1"
   workflow_dispatch:
-  
-  # Run on every push on the main branch
   push:
     branches:
-    - main
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-artwork
+  cancel-in-progress: true
 
 jobs:
   generate:
+    name: Generate contribution snake
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
     steps:
-      # Checkout the repository
       - name: Checkout
         uses: actions/checkout@v4
-      
-      # Generate the snake files
-      - name: Generate Snake
+
+      - name: Generate contribution artwork
         uses: Platane/snk@v3
         with:
           github_user_name: vijayshikhare
@@ -33,11 +32,8 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
-      # Push the changes to the output branch
-      - name: Push to output branch
+
+      - name: Publish contribution artwork
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

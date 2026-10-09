@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/vijayshikhare">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:vijayshikhareteam@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vijayshikhareteam@gmail.com">
   <img src="https://img.shields.io/badge/Contact-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vijay">
 </a>
 <a href="https://github.com/vijayshikhare?tab=repositories">
@@ -276,11 +276,16 @@ collaborations where good product thinking and careful engineering matter.
 <a href="https://www.vijayshikhare.com">
   <img src="https://img.shields.io/badge/Visit%20portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Vijay's portfolio">
 </a>
-<a href="mailto:vijayshikhareteam@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vijayshikhareteam@gmail.com">
   <img src="https://img.shields.io/badge/Start%20a%20conversation-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vijay">
 </a>
 
 <br><br>
+
+Prefer a direct email client?
+[vijayshikhareteam@gmail.com](mailto:vijayshikhareteam@gmail.com)
+
+<br>
 
 <sub>Based in Maharashtra, India · Available for remote opportunities</sub>
 
