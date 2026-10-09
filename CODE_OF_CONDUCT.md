@@ -3,9 +3,6 @@
 > A respectful profile repository makes it easier for good ideas and useful
 > collaboration to move forward.
 
-This repository represents a professional public profile. Every interaction
-should help keep it respectful, constructive, and useful.
-
 ## Our standard
 
 This repository represents a professional public profile. Every interaction
